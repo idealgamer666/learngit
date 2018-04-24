@@ -4,4 +4,4 @@ chen hong tao
 function
 I change it.
 Git tracks changes of files.
-Createing a new branch is quick.
+Createing a new branch is quick & simple.
