@@ -3,4 +3,4 @@ Git is a distributed version control system.
 chen hong tao
 function
 I change it.
-Git tracks changes.
+Git tracks changes of files.
